@@ -1,0 +1,7 @@
+Producto: Zanahoria, Peso: 100gr, PrecioBruto: 2, FElaboracion: 2020-02-02
+Producto: Manzana, Peso: 500gr, PrecioBruto: 1, FElaboracion: 2022-02-02
+Producto: Naranja, Peso: 800gr, PrecioBruto: 3, FElaboracion: 2023-02-02
+Producto: Fideos, Peso: 900gr, PrecioBruto: 4, FElaboracion: 2022-06-02
+Producto: Ravioles, Peso: 1000gr, PrecioBruto: 6, FElaboracion: 2023-10-10
+Producto: Mariscos, Peso: 3000gr, PrecioBruto: 2, FElaboracion: 2023-11-02
+Producto: Salmon, Peso: 2000GR, PrecioBruto: 4, FElaboracion: 2023-12-02
